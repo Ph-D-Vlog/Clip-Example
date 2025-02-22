@@ -1,7 +1,7 @@
 # Clip-Example
 
-img是提取图片特征
+img is used to extract image features
 
-text是提取文本特征
+text is used to extract text features
 
-代码效率很高，可以充分使用GPU性能
+The code is highly efficient and can fully utilize GPU performance
